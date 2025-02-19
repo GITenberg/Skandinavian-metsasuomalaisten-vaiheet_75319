@@ -1,0 +1,25 @@
+_repo: Skandinavian-metsasuomalaisten-vaiheet_75319
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Salminen, Väinö
+    gutenberg_agent_id: '57944'
+    url: http://www.gutenberg.org/2009/agents/57944
+description: ''
+gutenberg_issued: '2025-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75319'
+language: fi
+pgterms:marc905: 20250129155348salminen
+pgterms:marc906: '1909'
+pgterms:marc907: FI
+production_note: Scanned and digitized by Petteri Pitkänen
+publication_note: '  $aHelsinki :$bSuomalainen Kustannus-Osakeyhtiö KANSA, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Skandinavian metsäsuomalaisten vaiheet
+url: http://www.gutenberg.org/ebooks/75319
