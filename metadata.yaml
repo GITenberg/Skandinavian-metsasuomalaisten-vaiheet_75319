@@ -1,11 +1,16 @@
 _repo: Skandinavian-metsasuomalaisten-vaiheet_75319
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Salminen, Väinö
     gutenberg_agent_id: '57944'
     url: http://www.gutenberg.org/2009/agents/57944
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75319#Skandinavian-metsasuomalaisten-vaiheet
 gutenberg_issued: '2025-02-08'
 gutenberg_type: Text
 identifiers:
